@@ -1,0 +1,6 @@
+[package]
+name = "bumpalo-extras"
+version = "0.1.0"
+authors = ["Zakarum <zakarumych@ya.ru>"]
+
+[dependencies]
