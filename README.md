@@ -1,11 +1,10 @@
 # bumpalo-extras
 
-[![crates](https://img.shields.io/crates/v/bumpalo-extras.svg?label=bumpalo-extras)](https://crates.io/crates/bumpalo-extras)
-[![docs](https://docs.rs/bumpalo-extras/badge.svg)](https://docs.rs/bumpalo-extras)
-[![Actions](https://github.com/zakarumych/bumpalo-extras/workflows/Rust/badge.svg)](https://github.com/zakarumych/bumpalo-extras/actions?query=workflow%3ARust)
-[![MIT/Apache](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)](COPYING)
-![Lines of Code](https://tokei.rs/b1/github/zakarumych/bumpalo-extras?category=code)
-[![dependency status](https://deps.rs/repo/github/zakarumych/bumpalo-extras/status.svg)](https://deps.rs/repo/github/zakarumych/bumpalo-extras)
+[![crates](https://img.shields.io/crates/v/bumpalo-extras.svg?style=for-the-badge&label=bumpalo-extras)](https://crates.io/crates/bumpalo-extras)
+[![docs](https://img.shields.io/badge/docs.rs-bumpalo--extras-66c2a5?style=for-the-badge&labelColor=555555&logoColor=white)](https://docs.rs/bumpalo-extras)
+[![actions](https://img.shields.io/github/workflow/status/zakarumych/bumpalo-extras/Rust/master?style=for-the-badge)](https://github.com/zakarumych/bumpalo-extras/actions?query=workflow%3ARust)
+[![MIT/Apache](https://img.shields.io/badge/license-MIT%2FApache-blue.svg?style=for-the-badge)](COPYING)
+![loc](https://img.shields.io/tokei/lines/github/zakarumych/bumpalo-extras?style=for-the-badge)
 
 
 bumpalo-extras crate.
