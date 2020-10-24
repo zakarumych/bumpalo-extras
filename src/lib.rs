@@ -1,3 +1,3 @@
 //!
 //! bumpalo-extras crate.
-//! 
+//!
